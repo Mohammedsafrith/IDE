@@ -1,0 +1,18 @@
+.intro {
+  text-align: center;
+}
+img {
+  width: 650px;
+  max-width: 650px;
+  max-height: 358px;
+}
+.twoCol {
+  margin-left: -150px !important;
+}
+.secondCol {
+  padding-left: 100px;
+  padding-top: 20px;
+}
+.firstCol {
+  padding-top: 15px;
+}
