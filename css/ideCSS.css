@@ -16,3 +16,10 @@ img {
 .firstCol {
   padding-top: 15px;
 }
+#profile{
+  border-radius: 50%;
+  width: 180px;
+}
+#profileDetails{
+  padding-top: 30px;
+}
